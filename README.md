@@ -6,7 +6,7 @@
 
 ```
 Seongbukgu_Rent_Prediction/
-├── .ipynb_checkpoints  # Jupyter 자동 저장 백업 폴더
+├── .ipynb_checkpoints/ # Jupyter 자동 저장 백업 폴더
 ├── data/               # 전월세 실거래가, 기준금리, CPI 등 원본 데이터
 ├── results/            # 전처리 및 분석 결과 데이터
 ├── notebooks/          # 실험 코드 (rent_prediction_final.ipynb)
